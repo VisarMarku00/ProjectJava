@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.example.demo"},{"l":"com.example.demo.controller"},{"l":"com.example.demo.pojo.entity"},{"l":"com.example.demo.pojo.input"},{"l":"com.example.demo.repository"},{"l":"com.example.demo.service"}]
